@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ginzo!</h1>
 <h3 align="center">I am an Informatics Engineering student at PNJ and a passionate fullstack developer from Indonesia. 🇮🇩</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShaniElbar&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="trophy" /></a>
-</p>
 
 <p align="center">
   <em>A tech enthusiast who loves building software, designing systems, and exploring new technologies. Constantly learning and improving my skills to build high-quality solutions.</em>
